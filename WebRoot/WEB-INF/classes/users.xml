@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<user> 
+  <user usernme="admin" password="123" email="zhupei@tianfang1314.cn" birthday="2016-07-25"/>  
+  <user/>  
+  <user username="王大" password="123" email="wd@tianfang1314.cn" birthday="2016-07-25"/>  
+  <user/>  
+  <user username="哈哈" password="123" email="lf@tianfang1314.cn" birthday="2016-07-25"/>  
+  <user/>
+  <user username="哦哦" password="123" email="lf@tianfang1314.cn" birthday="2016-07-25"/>
+</user>
